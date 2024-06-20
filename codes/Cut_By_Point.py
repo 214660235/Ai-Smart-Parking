@@ -1,5 +1,3 @@
-
-# זה הקוד הטוב!!
 import os
 import uuid  # For generating unique filenames
 
