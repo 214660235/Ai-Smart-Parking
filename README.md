@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Ai-Smart-Parking
+  A web application for locating parking slots using the VGG16 ML model, which processes real-time photos from parking lot cameras to identify empty spots. The model was trained to recognize empty parking spaces through image processing in Python. Technologies used include React, CSS, HTML, Python, MySQL Server, and Flask.
+>>>>>>> 2d68753d9d1e5c582ec8a62b810aeea021b3f639
